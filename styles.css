@@ -1,0 +1,56 @@
+#GOW {
+ display: flex;
+ justify-content: flex-end;
+ margin: 45px;
+ width: 90%;
+ padding: 20px;
+}
+
+#ANM {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#MNM {
+    display: flex;
+    margin-top: 30px;
+    justify-content: flex-end;
+}
+
+#CoryB {
+   display: flex;
+   justify-content: flex-end;
+}
+.Kratos {
+    height: 350px;
+    width: 280px;
+}
+
+.Atreus {
+    height: 320px;
+    
+}
+
+.Mimir {
+   height: 200px; 
+   width: 410px;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #DC143C, black 50%, #0429FA);
+}
+
+
+p {
+  color: white; 
+  margin: 30px;
+
+}
+
+.Subheadings {
+    color: white;   
+}
+
+.ClickMe {
+    margin-top: 25px;
+}
